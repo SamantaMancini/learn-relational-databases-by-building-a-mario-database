@@ -33,3 +33,5 @@ psql --username=freecodecamp --dbname=postgres
 psql --username=freecodecamp --dbname=postgres
 psql --username=freecodecamp --dbname=postgres
 psql --username=freecodecamp --dbname=postgres
+clear
+psql --username=freecodecamp --dbname=mario_database
