@@ -27,3 +27,5 @@ trap '__vsc_preexec_all "$_"' DEBUG
 __vsc_original_prompt_command=${PROMPT_COMMAND:-}
 echo hello PostgreSQL
 psql --username=freecodecamp --dbname=postgres
+CREATE DATABASE first_database
+psql --username=freecodecamp --dbname=postgres
