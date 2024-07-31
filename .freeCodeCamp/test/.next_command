@@ -29,3 +29,5 @@ echo hello PostgreSQL
 psql --username=freecodecamp --dbname=postgres
 CREATE DATABASE first_database
 psql --username=freecodecamp --dbname=postgres
+psql --username=freecodecamp --dbname=postgres
+psql --username=freecodecamp --dbname=postgres
