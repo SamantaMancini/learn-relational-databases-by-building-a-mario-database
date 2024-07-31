@@ -31,3 +31,4 @@ CREATE DATABASE first_database
 psql --username=freecodecamp --dbname=postgres
 psql --username=freecodecamp --dbname=postgres
 psql --username=freecodecamp --dbname=postgres
+psql --username=freecodecamp --dbname=postgres
